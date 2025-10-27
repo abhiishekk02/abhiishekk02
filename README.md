@@ -9,7 +9,6 @@
   <a href="mailto:gourishettyabhishek@gmail.com"><img src="https://img.shields.io/badge/Email-0B1020?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/abhishekk02/"><img src="https://img.shields.io/badge/LinkedIn-0B1020?style=for-the-badge&logo=linkedin&logoColor=7F56D9"/></a>
   <a href="https://abhiishekk02.github.io/AG.Dev/"><img src="https://img.shields.io/badge/Portfolio-0B1020?style=for-the-badge&logo=googlechrome&logoColor=7F56D9"/></a>
-  <a href="https://github.com/abhiishekk02"><img src="https://img.shields.io/badge/GitHub-0B1020?style=for-the-badge&logo=github&logoColor=7F56D9"/></a>
 </p>
 
 ---
