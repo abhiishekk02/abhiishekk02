@@ -8,7 +8,7 @@
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=soft&height=280&color=0:0A0A0A,60:0F0A08,100:180C06&text=ABHISHEK%20G.&fontColor=F5F0E8&fontSize=88&fontAlignY=46&desc=Software%20Engineer%20%26%20Data%20Analytics&descSize=17&descAlignY=68&descColor=FF4D1C&animation=fadeIn&stroke=FF4D1C&strokeWidth=0" />
+<p>Abhishek G</p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=FF4D1C&section=footer" />
 
